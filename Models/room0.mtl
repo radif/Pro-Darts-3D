@@ -1,0 +1,145 @@
+# Blender3D MTL File: mainScene.blend
+# Material Count: 13
+newmtl Material.007_tv.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tv.png
+
+
+newmtl Material.007_floor.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd floor.png
+
+
+newmtl Material.007_stdGreen.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd stdGreen.png
+
+
+newmtl Material.007_door.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd door.png
+
+
+newmtl Material.007_counter.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd counter.png
+
+
+newmtl Material.007_disk1.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd disk1.png
+
+
+newmtl Material.007_slotMachine.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd slotMachine.png
+
+
+newmtl Material.007_brickwall.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd brickwall.png
+
+
+newmtl Material.007_brickwall_red.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd brickwall_red.png
+
+
+newmtl Material.007_balck.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd balck.png
+
+
+newmtl Material.007_dartHead.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dartHead.png
+
+
+newmtl Material.007_ceiling1.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ceiling1.png
+
+
+newmtl Material.007_chalkBoard.png
+Ns 227.450980
+Ka 1.000000 0.950000 0.950000
+Kd 0.056663 0.052320 0.052320
+Ks 0.848791 0.848791 0.848791
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd chalkBoard.png
+
+

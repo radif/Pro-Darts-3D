@@ -1,0 +1,178 @@
+# Blender3D MTL File: mainScene.blend
+# Material Count: 16
+newmtl Material.017_wood.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wood.png
+
+
+newmtl Material.014_mohagony.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd mohagony.png
+
+
+newmtl Material.017_balck.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd balck.png
+
+
+newmtl Material.014_drawer.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd drawer.png
+
+
+newmtl Material.002_fraternityWall.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.672993 0.672993 0.672993
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd fraternityWall.png
+
+
+newmtl Material.003_balck.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd balck.png
+
+
+newmtl Material.013_door.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd door.png
+
+
+newmtl Material.013_mantel.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd mantel.png
+
+
+newmtl Material.002_lightBlue.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.672993 0.672993 0.672993
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lightBlue.png
+
+
+newmtl Material.018_dartHead.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd dartHead.png
+
+
+newmtl Material.002_floor.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.672993 0.672993 0.672993
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd floor.png
+
+
+newmtl Material.018_lightBlue.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lightBlue.png
+
+
+newmtl Material.013_tv.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd tv.png
+
+
+newmtl Material.016_ceiling1.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ceiling1.png
+
+
+newmtl Material.003_disk1.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd disk1.png
+
+
+newmtl Material.013_stag.png
+Ns 96.078431
+Ka 1.000000 0.950000 0.950000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd stag.png
+
+
